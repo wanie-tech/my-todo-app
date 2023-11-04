@@ -2,6 +2,8 @@ buy
 wash
 clean
 wipe
-make pastamaster
-master
-master
+make pasta
+runmaster
+anything
+walk
+jogging
