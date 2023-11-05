@@ -1,9 +1,10 @@
 buy
 wash
 clean
-wipe
 make pasta
-runmaster
-anything
-walk
 jogging
+run
+bom
+walking
+anythin
+
