@@ -12,7 +12,7 @@ def get_todos(filepath=FILEPATH):
         todos_local = file_local.readlines()
     return todos_local
 
-#print(help(get_todos))
+##print(help(get_todos))
 
 #text = """
 #principles of productivity
